@@ -1,4 +1,7 @@
 # Jerome's Portfolio Project
+
+[Link to Page](https://jeromepchavez.github.io/project-chavez-jerome/)
+
 This is my project for CS290
 
 I plan on using this project to create a portfolio website for myself. 
