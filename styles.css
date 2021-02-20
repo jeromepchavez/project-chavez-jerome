@@ -8,6 +8,16 @@
     height: 50px;
 }
 
+.profile-pic {
+    width: 400px;
+    height: 400px;
+}
+
+.link {
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .navbar .navbar-nav {
     float: none;
     vertical-align: top;
@@ -17,8 +27,12 @@
     text-align: center;
 }
 
-.school-link {
+.school {
     color: darkorange;
+}
+
+.bootstrap {
+    color: purple;
 }
 
 .bio-text {
